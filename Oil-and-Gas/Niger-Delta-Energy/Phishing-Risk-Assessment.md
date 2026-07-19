@@ -35,4 +35,17 @@ The following weaknesses could increase the likelihood of a successful phishing 
 2. Limited phishing awareness training among employees.
 3. Missing DMARC thereby leading to the possibility of domain spoofing.
 4. Weak password practice.
-5. 
+5. No phishing simulators put in place.
+
+# Impact Analysis 
+If a phising attack should succeed, the organization may experience:
+
+Impact                       Severity
+Financial Fraud                 High
+Credential Theft                High
+Data Breach                     High
+Operational Disruption         Medium
+Reputational Damage             High
+Regulatory Consequences        Medium
+
+
