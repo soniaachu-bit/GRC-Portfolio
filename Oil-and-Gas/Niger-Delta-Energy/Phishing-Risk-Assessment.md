@@ -4,7 +4,7 @@ Employees in Niger Delta Energy Ltd recently identified multiple suspicious emai
 This assessment was conducted to evaluate the organization's exposure to phishing threats, identify vulnerabilities, assess associated risks, and recommend controls to reduce the likelihood and impact of future incidents.
 
 # Company Background
-- Company: Niger Delta Energy Ltd. (Hypothetical)
+- Company: Niger Delta Energy Ltd. 
 - Industry: Oil & Gas (Upstream)
 - Employees: 500
 - Locations: Headquarters in Port Harcourt and 3 field offices
@@ -38,14 +38,15 @@ The following weaknesses could increase the likelihood of a successful phishing 
 5. No phishing simulators put in place.
 
 # Impact Analysis 
-If a phising attack should succeed, the organization may experience:
+If a phishing attack should succeed, the organization may experience:
 
-Impact                       Severity
-Financial Fraud                 High
-Credential Theft                High
-Data Breach                     High
-Operational Disruption         Medium
-Reputational Damage             High
-Regulatory Consequences        Medium
+| Impact | Severity |
+|........|..........|
+| Financial Fraud | High |
+| Credential Theft | High |
+| Data Breach | High |
+| Operational Disruption | Medium |
+| Reputational Damage | High |
+| Regulatory Consequences | Medium |
 
 
