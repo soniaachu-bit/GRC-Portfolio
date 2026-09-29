@@ -40,13 +40,24 @@ The following weaknesses could increase the likelihood of a successful phishing 
 # Impact Analysis 
 If a phishing attack should succeed, the organization may experience:
 
-| Impact | Severity |
-|........|..........|
-| Financial Fraud | High |
+| Impact | Severity | 
+| :------| :--------|
+| Financial Fraud| High |
 | Credential Theft | High |
 | Data Breach | High |
 | Operational Disruption | Medium |
 | Reputational Damage | High |
 | Regulatory Consequences | Medium |
+
+# Risk Evaluation
+After the risk evaluation, it was discovered that the likelihood of another phishing attack in the company is high. This is because oil and gas organizations are frequently targeted by phishing campaign due to their financial value and operational importance which will also make the impact of a phishing attack high as compromised accounts could result in financial loss, operational disruption, and reputational damage. 
+
+# Risk Rating 
+| Risk Scenario | Likelihood | Impact | Rating |
+| ------------- | ----------- | ----- | ------ |
+| Credential Theft | High | High |  Critical |
+| Business Email Compromise | High | High | Critical |
+| Malware Infection | Medium | High | High |
+| Fraudulent Payments | High | High | Critical |
 
 
