@@ -60,4 +60,19 @@ After the risk evaluation, it was discovered that the likelihood of another phis
 | Malware Infection | Medium | High | High |
 | Fraudulent Payments | High | High | Critical |
 
+# Recommended Controls
 
+## Administrative Controls
+1. Conduct quarterly phishing awareness traning
+2. Establish email usage policies
+3. Implement phishing simulations
+
+## Technical Controls
+1. Implement SPF, DKIM, & DMARC.
+2. Enable multi-factor authentication (MFA)
+3. Deploy secure email gateway
+
+## Detective Controls
+1. Security event logging
+2. Incident reporting procedures
+3. Email monitoring
