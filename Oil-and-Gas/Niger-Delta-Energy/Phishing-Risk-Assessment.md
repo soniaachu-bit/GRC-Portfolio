@@ -76,3 +76,8 @@ After the risk evaluation, it was discovered that the likelihood of another phis
 1. Security event logging
 2. Incident reporting procedures
 3. Email monitoring
+
+# Conclusion
+The assessment identified phishing as a significant cybersecurity risk to Niger Delta Energy LTD. Several vulnerabilities, including the absence of MFA and limited security awareness training, increase the likelihood of successful phishing attacks.
+
+Management should prioritize the implementation of technical and administrative controls to reduce organized exposure and strengthen overall security posture.
