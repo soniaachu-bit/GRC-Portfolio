@@ -26,7 +26,7 @@ Potential Phising threats include:
 1. Credential Harvesting: Fake login pages can be created and used to steal credentials or login details.
 2. Business Email Compromise (BEC): Attackers can impersonate executives to manipulate employees.
 3. CEO Fraud: Attackers can pretend to be a senior executive (CEO) and make fake requests from employees.
-4. Spear phishing: Highly targeted phishing attacks aimed at spevific individuals or department in the company.
+4. Spear phishing: Highly targeted phishing attacks aimed at specific individuals or department in the company.
 5. Malware attachment: Emails might contain malicious attachments that can infect systems when opened.
   
 # Vulnerability Assessment 
